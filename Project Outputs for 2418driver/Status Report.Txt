@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [2418driver.PrjPcb]
+   Generated File[Pick Place for 2418driver.txt]
+   Generated File[Pick Place for 2418driver.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 23:57:24 On 2020/4/20
